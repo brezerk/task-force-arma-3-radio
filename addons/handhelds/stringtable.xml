@@ -8,6 +8,7 @@
         <Key ID="STR_TFAR_handhelds_RF7800STR_Desc">
             <Original>RF-7800S-TR rifleman radio 2km</Original>
             <English>RF-7800S-TR rifleman radio 2km</English>
+            <Russian>RF-7800S-TR особиста рація бійця BLUEFOR (2 км)</Russian>
             <Japanese>RF-7800S-TR 小銃手用無線機 2km</Japanese>
             <Korean>RF-7800S-TR 개인 무전기 2km</Korean>
             <Chinese>RF-7800S-TR短程步兵無線電，有效距離2公里</Chinese>
@@ -20,6 +21,7 @@
         <Key ID="STR_TFAR_handhelds_PNR1000A_Desc">
             <Original>PNR-1000A rifleman radio 2km</Original>
             <English>PNR-1000A rifleman radio 2km</English>
+            <Russian>PNR-1000A особиста рація бійця OPFOR (2 км)</Russian>
             <Japanese>PNR-1000A 小銃手用無線機 2km</Japanese>
             <Korean>PNR-1000A 개인 무전기 2km</Korean>
             <Chinese>PNR-1000A短程步兵無線電，有效距離2公里</Chinese>
@@ -28,6 +30,7 @@
         <Key ID="STR_TFAR_handhelds_MicroDagr">
             <Original>MicroDAGR Radio Programmer</Original>
             <English>MicroDAGR Radio Programmer</English>
+            <Russian>MicroDAGR програматор радиостанцій</Russian>
             <Japanese>マイクロDAGR 設定器</Japanese>
             <Korean>MicroDAGR 무전 설정기</Korean>
             <Chinese>微型軍用GPS接收器 (無線電編碼器)</Chinese>
@@ -36,6 +39,7 @@
         <Key ID="STR_TFAR_handhelds_MicroDagr_Desc">
             <Original>Provides ability to program rifleman radios in the field</Original>
             <English>Provides ability to program rifleman radios in the field</English>
+            <Russian>Надає можливість програмування радіостанцій бійців у польових умовах</Russian>
             <Japanese>戦場において小銃手用無線機の設定が可能になります</Japanese>
             <Korean>야전에서 개인 무전기를 설정할 수 있습니다.</Korean>
             <Chinese>使持有人能在戰場上調整短程步兵無線電的頻率設定</Chinese>
@@ -48,6 +52,7 @@
         <Key ID="STR_TFAR_handhelds_FADAK_Desc">
             <Original>FADAK personal radio 5km</Original>
             <English>FADAK personal radio 5km</English>
+            <Russian>FADAK особиста рація командира OPFOR (5 км)</Russian>
             <Japanese>FADAK 個人用無線機 5km</Japanese>
             <Korean>FADAK 개인 무전기 5km</Korean>
             <Chinese>FADAK短程個人無線電，有效距離5公里</Chinese>
@@ -60,6 +65,7 @@
         <Key ID="STR_TFAR_handhelds_ANPRC154_Desc">
             <Original>AN/PRC-154 rifleman radio 2km</Original>
             <English>AN/PRC-154 rifleman radio 2km</English>
+            <Russian>AN/PRC-154 особиста рація бійця INDEP (2 км)</Russian>
             <Japanese>AN/PRC-154 小銃手用無線機 2km</Japanese>
             <Korean>AN/PRC-154 개인 무전기 2km</Korean>
             <Chinese>AN/PRC-154短程步兵無線電，有效距離2公里</Chinese>
@@ -72,6 +78,7 @@
         <Key ID="STR_TFAR_handhelds_ANPRC152_Desc">
             <Original>AN/PRC-152 personal radio 5km</Original>
             <English>AN/PRC-152 personal radio 5km</English>
+            <Russian>AN/PRC-152 особиста рація командира BLUEFOR (5 км)</Russian>
             <Japanese>AN/PRC-152 個人用無線機 5km</Japanese>
             <Korean>AN/PRC-152 개인 무전기 5km</Korean>
             <Chinese>AN/PRC-152短程個人無線電，有效距離5公里</Chinese>
@@ -84,6 +91,7 @@
         <Key ID="STR_TFAR_Handhelds_ANPRC148JEM_Desc">
             <Original>AN/PRC-148 JEM personal radio 5km</Original>
             <English>AN/PRC-148 JEM personal radio 5km</English>
+            <Russian>AN/PRC-148 JEM особиста рація командира INDEP (5 км)</Russian>
             <Japanese>AN/PRC-148 JEM 個人用無線機 5km</Japanese>
             <Korean>AN/PRC-148 JEM 개인 무전기 5km</Korean>
             <Chinese>AN/PRC-148 JEM短程個人無線電，有效距離5公里</Chinese>
