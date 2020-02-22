@@ -6,9 +6,7 @@
         <Original>
           TFAR Radio (NATO)
         </Original>
-        <Russian>
-          TFAR Рации (НАТО)
-        </Russian>
+        <Russian>TFAR Рації (BLUEFOR)</Russian>
         <Spanish>
           TFAR Radio (NATO)
         </Spanish>
@@ -27,7 +25,7 @@
           TFAR Radio (CSAT)
         </Original>
         <Russian>
-          TFAR Рации (CSAT)
+          TFAR Рації (OPFOR)
         </Russian>
         <Spanish>
           TFAR Radio (CSAT)
@@ -47,7 +45,7 @@
           TFAR Radio (AAF)
         </Original>
         <Russian>
-          TFAR Рации (AAF)
+          TFAR Рації (INDEP)
         </Russian>
         <Spanish>
           TFAR Radio (AAF)
@@ -67,7 +65,7 @@
           TFAR – Enforce Usage
         </Original>
         <Russian>
-          TFAR – Базовый модуль
+          TFAR – Базовий модуль
         </Russian>
         <Spanish>
           TFAR – Obligar su uso
@@ -87,7 +85,7 @@
           Give team leaders a long range radio
         </Original>
         <Russian>
-          Выдавать лидерам групп рацию дальней связи
+          Видавати командирам рацію Дальнього Зв'язку
         </Russian>
         <Spanish>
           Dar a los lideres de equipo una radio de largo alcance
@@ -107,7 +105,7 @@
           Give each team leader the appropriate long range radio
         </Original>
         <Russian>
-          Выдавать каждому лидеру группы рацию дальней связи
+          Видавати кожному лідеру групи рацію ДЗ
         </Russian>
         <Spanish>
           Da a cada lider de equipo una radio de largo alcance apropiada
@@ -127,7 +125,7 @@
           Give rifleman radio
         </Original>
         <Russian>
-          Выдавать личную рацию бойца
+          Видавати особисті рації бійцям
         </Russian>
         <Spanish>
           Dar una radio personal
@@ -147,7 +145,7 @@
           Give a rifleman radio to regular soldiers
         </Original>
         <Russian>
-          Выдавать личную рацию рядовым бойцам
+          Видавати особисті рації рядовим бійцям
         </Russian>
         <Spanish>
           Dar una radio personal a cada miembro de equipo
@@ -167,7 +165,7 @@
           Enforces usage of TFAR in mission.
         </Original>
         <Russian>
-          Обязует игроков использовать аддон.
+          Зобов'язує гравців використовувати доповнення.
         </Russian>
         <Spanish>
           Fuerza el uso de TFAR en la misión.
@@ -187,7 +185,7 @@
           Encryption Code
         </Original>
         <Russian>
-          Код шифрования
+          Код шифрування
         </Russian>
         <Spanish>
           Codigo de encriptación
@@ -207,7 +205,7 @@
           LR Radio
         </Original>
         <Russian>
-          Рация дальней связи
+          Рація Дальнього Зв'язку
         </Russian>
         <Spanish>
           Radio LA
@@ -227,7 +225,7 @@
           Long Range radio
         </Original>
         <Russian>
-          Рация дальней связи
+          Рація Дальнього Зв'язку
         </Russian>
         <Spanish>
           Radio de Largo Alcance
@@ -247,7 +245,7 @@
           PR Radio
         </Original>
         <Russian>
-          Рация командира
+          Рація командира'язку
         </Russian>
         <Spanish>
           Radio PR
@@ -267,7 +265,7 @@
           Personal radio
         </Original>
         <Russian>
-          Рация командира группы
+          Рація командира групи
         </Russian>
         <Spanish>
           Radio Personal
@@ -287,7 +285,7 @@
           Rifleman Radio
         </Original>
         <Russian>
-          Рация рядового бойца
+          Рація рядового бійця
         </Russian>
         <Spanish>
           Radio de fusilero
@@ -307,7 +305,7 @@
           Rifleman Radio
         </Original>
         <Russian>
-          Рация рядового бойца
+          Рація рядового бійця
         </Russian>
         <Spanish>
           Radio de fusilero
@@ -327,7 +325,7 @@
           PR Freq.
         </Original>
         <Russian>
-          Частоты ближней связи
+          Частоти Ближнього Зв'язку
         </Russian>
         <Spanish>
           Frec. RP
@@ -347,7 +345,7 @@
           PR default frequencies (as an SQF array)
         </Original>
         <Russian>
-          Стандартные частоты ближней связи (как SQF массив)
+          Стандартні частоти Ближнього Зв'язку за замовч. (як SQF-масив)
         </Russian>
         <Spanish>
           Frecuencia por defecto PR (como array SQF)
@@ -367,7 +365,7 @@
           LR Freq.
         </Original>
         <Russian>
-          Частота дальней связи
+          Частота Дальнього Зв'язку
         </Russian>
         <Spanish>
           LA Frec.
@@ -387,7 +385,7 @@
           LR default frequencies (as an SQF array)
         </Original>
         <Russian>
-          Стандартные частоты дальней связи (как SQF массив)
+          Стандартні частоти Дальнього Зв'язку (як SQF-масив)
         </Russian>
         <Spanish>
           Frecuencia por defecto LA (como array SQF)
@@ -407,7 +405,7 @@
           TFAR – Side Radio
         </Original>
         <Russian>
-          TFAR – Рации стороны
+          TFAR – Рації сторони
         </Russian>
         <Spanish>
           TFAR – Radio del bando
@@ -427,7 +425,7 @@
           Allows setting of default radios, encryption and frequencies for synced side.
         </Original>
         <Russian>
-          Позволяет определить стандартные рации, коды шифрования и частоту для синхронизированной стороны.
+          Налаштовує рації за замовчуванням, коды шифрування і частоти для синхронізованої сторони.
         </Russian>
         <Spanish>
           Permite configurar las radios por defecto, la encriptacion y las frecuencias del bando sincronizado.
@@ -447,7 +445,7 @@
           TFAR – Frequencies
         </Original>
         <Russian>
-          TFAR – Частоты
+          TFAR – Частоти
         </Russian>
         <Spanish>
           TFAR – Frecuencias
@@ -467,7 +465,7 @@
           Allows setting of default frequencies for sides.
         </Original>
         <Russian>
-          Позволяет определить стандартные частоты для сторон.
+          Дозволяє встановити стандартні частоти для сторін.
         </Russian>
         <Spanish>
           Permite configurar las frecuencias por defecto para los bandos.
@@ -487,7 +485,7 @@
           Terrain Interception Coefficient
         </Original>
         <Russian>
-          Коэффициент помех от рельефа
+          Коефіцієнт перешкод від рельєфу
         </Russian>
         <Spanish>
           Coeficiente de intercepción del terreno
@@ -507,7 +505,7 @@
           Terrain Interception Coefficient
         </Original>
         <Russian>
-          Коэффициент помех от рельефа
+          Коефіцієнт перешкод від рельєфу
         </Russian>
         <Spanish>
           Coeficiente de intercepción del terreno
@@ -527,7 +525,7 @@
           Channel Name
         </Original>
         <Russian>
-          Название канала
+          Назва канала
         </Russian>
         <Spanish>
           Nombre del canal
@@ -547,7 +545,7 @@
           TeamSpeak Channel Name
         </Original>
         <Russian>
-          Название канала TeamSpeak
+          Назва канала TeamSpeak
         </Russian>
         <Spanish>
           Nombre del canal del TeamSpeak
@@ -607,7 +605,7 @@
           Same SW Frequencies for side
         </Original>
         <Russian>
-          Одинаковые частоты ближней связи для стороны
+          Однакові частоти Ближнього Зв'язку для сторони
         </Russian>
         <Spanish>
           Mismas frecuencias de onda corta para el bando
@@ -627,7 +625,7 @@
           Same SW Frequencies for side
         </Original>
         <Russian>
-          Одинаковые частоты ближней связи для стороны
+          Однакові частоти Ближнього Зв'язку для сторони
         </Russian>
         <Spanish>
           Mismas frecuencias de onda corta para el bando
@@ -647,7 +645,7 @@
           Same LR Frequencies for side
         </Original>
         <Russian>
-          Одинаковые частоты дальней связи для стороны
+          Однакові частоти Дальнього Зв'язку для сторони
         </Russian>
         <Spanish>
           Mismas frecuencias de onda larga para el bando
@@ -667,7 +665,7 @@
           Same LR Frequencies for side
         </Original>
         <Russian>
-          Одинаковые частоты дальней связи для стороны
+          Однакові частоти Дальнього Зв'язку для сторони
         </Russian>
         <Spanish>
           Mismas frecuencias de onda larga para el bando
