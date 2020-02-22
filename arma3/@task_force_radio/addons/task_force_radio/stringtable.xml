@@ -7,7 +7,7 @@
 					Different version of Task Force Radio are used. Server version: %1, Your version: %2
 				</Original>
 				<Russian>
-					Несовпадение версий Task Force Radio. Версия на сервере: %1, Ваша версия: %2
+					Розбіжність версій Task Force Radio. Версія на сервері: %1, Ваша версія: %2
 				</Russian>
 				<French>
 					Différentes versions de Task Force Radio sont utilisées. Version du serveur : %1, Votre version : %2
@@ -36,7 +36,7 @@
 					Stereo settings
 				</Original>
 				<Russian>
-					Настройки стерео
+					Налаштування стерео
 				</Russian>
 				<French>
 					Configurations stéréo
@@ -65,7 +65,7 @@
 					Left and right
 				</Original>
 				<Russian>
-					Левый и правый
+					Лівий і Правий
 				</Russian>
 				<French>
 					Gauche et droite
@@ -94,7 +94,7 @@
 					Left only
 				</Original>
 				<Russian>
-					Только левый
+					Тільки Лівий
 				</Russian>
 				<French>
 					Gauche seulement
@@ -123,7 +123,7 @@
 					Right only
 				</Original>
 				<Russian>
-					Только правый
+					Тільки Правий
 				</Russian>
 				<French>
 					Droite seulement
@@ -152,7 +152,7 @@
 					Headphones
 				</Original>
 				<Russian>
-					Наушники
+					Навушники
 				</Russian>
 				<French>
 					Écouteurs
@@ -178,7 +178,7 @@
 					Speakers
 				</Original>
 				<Russian>
-					Динамики
+					Динаміки
 				</Russian>
 				<French>
 					Haut-parleurs
@@ -204,7 +204,7 @@
 					Additional: Left and right
 				</Original>
 				<Russian>
-					Дополнительный: Левый и правый
+					Додатковий: Лівий і Правий
 				</Russian>
 				<French>
 					Supplémentaire: Gauche et droite
@@ -233,7 +233,7 @@
 					Additional: Left only
 				</Original>
 				<Russian>
-					Дополнительный: Только левый
+					Додатковий: тільки Лівий
 				</Russian>
 				<French>
 					Supplémentaire: Gauche seulement
@@ -262,7 +262,7 @@
 					Additional: Right only
 				</Original>
 				<Russian>
-					Дополнительный: Только правый
+					Додатковий: тільки Правий
 				</Russian>
 				<French>
 					Supplémentaire: Droite seulement
@@ -291,7 +291,7 @@
 					No Task Force Radio deployed on server!
 				</Original>
 				<Russian>
-					Не обнаружена серверная часть Task Force Radio!
+					Не знайдено серверну частину Task Force Radio!
 				</Russian>
 				<French>
 					Il n'y a pas de Task Force Radio déployé sur le serveur !
@@ -320,7 +320,7 @@
 					Current frequency
 				</Original>
 				<Russian>
-					Текущая частота
+					Поточна частота
 				</Russian>
 				<French>
 					Fréquence actuelle
@@ -349,7 +349,7 @@
 					Current channel
 				</Original>
 				<Russian>
-					Текущий канал
+					Поточний канал
 				</Russian>
 				<French>
 					Canal actuel
@@ -378,7 +378,7 @@
 					Set frequency
 				</Original>
 				<Russian>
-					Установить частоту
+					Встановити частоту
 				</Russian>
 				<French>
 					Valider la fréquence
@@ -407,7 +407,7 @@
 					Set additional channel
 				</Original>
 				<Russian>
-					Настроить дополнительный канал
+					Налаштувати додатковий канал
 				</Russian>
 				<French>
 					Canal supplémentaire prévue
@@ -436,7 +436,7 @@
 					Clear frequency
 				</Original>
 				<Russian>
-					Стереть частоту
+					Стерти частоту
 				</Russian>
 				<French>
 					Effacer la fréquence
@@ -465,7 +465,7 @@
 					Previous channel
 				</Original>
 				<Russian>
-					Предыдущий канал
+					Попередній канал
 				</Russian>
 				<French>
 					Canal précédent
@@ -494,7 +494,7 @@
 					Next channel
 				</Original>
 				<Russian>
-					Следующий канал
+					Наступний канал
 				</Russian>
 				<French>
 					Canal suivant
@@ -523,7 +523,7 @@
 					Decrease volume | Increase volume
 				</Original>
 				<Russian>
-					Уменьшить громкость | Увеличить громкость
+					- Тихіше | Гучніше +
 				</Russian>
 				<French>
 					Réduire le volume | Augmenter le volume
@@ -552,7 +552,7 @@
 					Previous channel | Next channel
 				</Original>
 				<Russian>
-					Следующий канал | Предыдущий канал
+					+ Наступний канал | Попередній канал -
 				</Russian>
 				<French>
 					Canal précédent | Canal suivant
@@ -581,7 +581,7 @@
 					Increase volume
 				</Original>
 				<Russian>
-					Увеличить громкость
+					Збільшити гучність
 				</Russian>
 				<French>
 					Augmenter le volume
@@ -610,7 +610,7 @@
 					Decrease volume
 				</Original>
 				<Russian>
-					Уменьшить громкость
+					Зменшити гучність
 				</Russian>
 				<French>
 					Réduire le volume
@@ -639,7 +639,7 @@
 					Change volume
 				</Original>
 				<Russian>
-					Настроить громкость
+					Налаштувати гучність
 				</Russian>
 				<French>
 					Changer le volume
@@ -668,7 +668,7 @@
 					Incorrect frequency value, range is %1-%2
 				</Original>
 				<Russian>
-					Неверная частота, диапазон %1-%2
+					Невірна частота, діапазон: %1-%2
 				</Russian>
 				<French>
 					Valeur de fréquence incorrecte, la plage est de %1-%2
@@ -697,7 +697,7 @@
 					Volume: %1
 				</Original>
 				<Russian>
-					Громкость: %1
+					Гучність: %1
 				</Russian>
 				<French>
 					Volume: %1
@@ -987,7 +987,7 @@
 					Current depth
 				</Original>
 				<Russian>
-					Текущая глубина
+					Поточна глибина
 				</Russian>
 				<French>
 					Current depth
@@ -1045,7 +1045,7 @@
 					Additional channel: &lt;t color=&apos;#ffff00&apos;&gt;%1&lt;/t&gt;
 				</Original>
 				<Russian>
-					Дополнительный канал: &lt;t color=&apos;#ffff00&apos;&gt;%1&lt;/t&gt;
+					Додатковий канал: &lt;t color=&apos;#ffff00&apos;&gt;%1&lt;/t&gt;
 				</Russian>
 				<French>
 					Canal supplémentaire: &lt;t color=&apos;#ffff00&apos;&gt;%1&lt;/t&gt;
@@ -1103,7 +1103,7 @@
 					LR channel: &lt;t color=&apos;#ffff00&apos;&gt;%1&lt;/t&gt;
 				</Original>
 				<Russian>
-					Kанал ДС: &lt;t color=&apos;#ff00ff&apos;&gt;%1&lt;/t&gt;
+					Kанал ДЗ: &lt;t color=&apos;#ff00ff&apos;&gt;%1&lt;/t&gt;
 				</Russian>
 				<French>
 					Canal LP: &lt;t color=&apos;#ffff00&apos;&gt;%1&lt;/t&gt;
@@ -1132,7 +1132,7 @@
 					Additional LR channel: &lt;t color=&apos;#ffff00&apos;&gt;%1&lt;/t&gt;
 				</Original>
 				<Russian>
-					Дополнительный канал ДС: &lt;t color=&apos;#ff00ff&apos;&gt;%1&lt;/t&gt;
+					Додатковий канал ДЗ: &lt;t color=&apos;#ff00ff&apos;&gt;%1&lt;/t&gt;
 				</Russian>
 				<French>
 					Canal supplémentaire LP: &lt;t color=&apos;#ffff00&apos;&gt;%1&lt;/t&gt;
@@ -1161,7 +1161,7 @@
 					&lt;t color=&apos;#33ccff&apos;&gt;Can&apos;t use radio under WATER&lt;/t&gt;
 				</Original>
 				<Russian>
-					&lt;t color=&apos;#33ccff&apos;&gt;Нельзя использовать данную рацию под водой&lt;/t&gt;
+					&lt;t color=&apos;#33ccff&apos;&gt;Не можна використовувати цю рацію під водою&lt;/t&gt;
 				</Russian>
 				<French>
 					&lt;t color=&apos;#33ccff&apos;&gt;Vous ne pouvez pas utiliser de radio sous l'eau !&lt;/t&gt;
@@ -1190,7 +1190,7 @@
 					&lt;t color=&apos;#993300&apos;&gt;Can&apos;t use driver radio on the air&lt;/t&gt;
 				</Original>
 				<Russian>
-					&lt;t color=&apos;#993300&apos;&gt;Нельзя использовать данную рацию в воздушной среде&lt;/t&gt;
+					&lt;t color=&apos;#993300&apos;&gt;Не можна використовувати рацію дайвера не під водою&lt;/t&gt;
 				</Russian>
 				<French>
 					&lt;t color=&apos;#993300&apos;&gt;Vous ne pouvez pas utiliser la radio du véhicule dans les airs !&lt;/t&gt;
@@ -1219,7 +1219,7 @@
 					&lt;t color=&apos;#FF0000&apos;&gt;you are not able to use the radio&lt;/t&gt;
 				</Original>
 				<Russian>
-					&lt;t color=&apos;#FF0000&apos;&gt;Вы не способны пользоваться рацией&lt;/t&gt;
+					&lt;t color=&apos;#FF0000&apos;&gt;Ви не здатні користуватися рацією&lt;/t&gt;
 				</Russian>
 				<French>
 					&lt;t color=&apos;#FF0000&apos;&gt;Vous n'êtes pas en mesure d'utiliser le radio&lt;/t&gt;
@@ -1248,7 +1248,7 @@
 					Select action
 				</Original>
 				<Russian>
-					Выберите действие
+					Виберіть дію
 				</Russian>
 				<French>
 					Sélectionner l'action
@@ -1277,7 +1277,7 @@
 					Settings...
 				</Original>
 				<Russian>
-					Настройки...
+					Налаштування...
 				</Russian>
 				<French>
 					Options
@@ -1306,7 +1306,7 @@
 					Open settings dialog
 				</Original>
 				<Russian>
-					Открыть диалог настройки
+					Відкрити діалог Налаштування
 				</Russian>
 				<French>
 					Ouvrir la fenêtre des options
@@ -1335,7 +1335,7 @@
 					Set as active
 				</Original>
 				<Russian>
-					Сделать активной
+					Зробити активною
 				</Russian>
 				<French>
 					Mettre dans le slot de radio
@@ -1364,7 +1364,7 @@
 					Use for transmiting
 				</Original>
 				<Russian>
-					Использовать для передачи
+					Використовувати для передачі
 				</Russian>
 				<French>
 					Choisir comme radio active
@@ -1393,7 +1393,7 @@
 					Select short range radio
 				</Original>
 				<Russian>
-					Выберите рацию ближней связи
+					Виберіть рацію Ближнього Зв'язку
 				</Russian>
 				<French>
 					Selectionner la radio courte portée
@@ -1422,7 +1422,7 @@
 					Select long range radio
 				</Original>
 				<Russian>
-					Выберите рацию дальней связи
+					Виберіть рацію Дальнього Зв'язку
 				</Russian>
 				<French>
 					Selectionner la radio longue portée
@@ -1451,7 +1451,7 @@
 					&lt;t size='1' align='center' color='#00FF00'&gt;Transmitting&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Radio: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Channel: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Freq: %3&lt;/t&gt;
 				</Original>
 				<Russian>
-					&lt;t size='1' align='center' color='#00FF00'&gt;Передача&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Рация: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Канал: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Частота: %3&lt;/t&gt;
+					&lt;t size='1' align='center' color='#00FF00'&gt;Передача&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Рація: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Канал: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Частота: %3&lt;/t&gt;
 				</Russian>
 				<French>
 					&lt;t size='1' align='center' color='#00FF00'&gt;Transmission&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Radio: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Canal: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Fréquence: %3&lt;/t&gt;
@@ -1480,7 +1480,7 @@
 					&lt;t size='1' align='center' color='#FF9900'&gt;Transmitted&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Radio: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Channel: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Freq: %3&lt;/t&gt;
 				</Original>
 				<Russian>
-					&lt;t size='1' align='center' color='#FF9900'&gt;Передано&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Рация: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Канал: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Частота: %3&lt;/t&gt;
+					&lt;t size='1' align='center' color='#FF9900'&gt;Передано&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Рація: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Канал: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Частота: %3&lt;/t&gt;
 				</Russian>
 				<French>
 					&lt;t size='1' align='center' color='#FF9900'&gt;Transmis avec&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Radio: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Canal: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Fréquence: %3&lt;/t&gt;
@@ -1509,7 +1509,7 @@
 					&lt;t size='1' align='center' color='#00FF00'&gt;Transmitting&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Radio: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Additional channel: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Freq: %3&lt;/t&gt;
 				</Original>
 				<Russian>
-					&lt;t size='1' align='center' color='#00FF00'&gt;Передача&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Рация: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Дополнительный канал: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Частота: %3&lt;/t&gt;
+					&lt;t size='1' align='center' color='#00FF00'&gt;Передача&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Рація: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Додатковий канал: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Частота: %3&lt;/t&gt;
 				</Russian>
 				<French>
 					&lt;t size='1' align='center' color='#00FF00'&gt;Transmission&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Radio: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Canal supplémentaires: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Fréquence: %3&lt;/t&gt;
@@ -1538,7 +1538,7 @@
 					&lt;t size='1' align='center' color='#FF9900'&gt;Transmitted&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Radio: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Additional сhannel: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Freq: %3&lt;/t&gt;
 				</Original>
 				<Russian>
-					&lt;t size='1' align='center' color='#FF9900'&gt;Передано&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Рация: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Дополнительный канал: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Частота: %3&lt;/t&gt;
+					&lt;t size='1' align='center' color='#FF9900'&gt;Передано&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Рация: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Додатковий канал: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Частота: %3&lt;/t&gt;
 				</Russian>
 				<French>
 					&lt;t size='1' align='center' color='#FF9900'&gt;Transmis avec&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Radio: %1&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Canal supplémentaires: %2&lt;/t&gt;&lt;br /&gt;&lt;t size='1' align='center'&gt;Fréquence: %3&lt;/t&gt;
@@ -1567,7 +1567,7 @@
 					Waiting...
 				</Original>
 				<Russian>
-					Ожидание...
+					Очікування...
 				</Russian>
 				<French>
 					En attente...
@@ -1596,7 +1596,7 @@
 					&lt;t align='center' color=&apos;#66ff33&apos;&gt;Voice volume: %1&lt;/t&gt;
 				</Original>
 				<Russian>
-					&lt;t align='center' color=&apos;#66ff33&apos;&gt;Громкость голоса: %1&lt;/t&gt;
+					&lt;t align='center' color=&apos;#66ff33&apos;&gt;Гучність голоса: %1&lt;/t&gt;
 				</Russian>
 				<French>
 					&lt;t align='center' color=&apos;#66ff33&apos;&gt;Volume de la voix : %1&lt;/t&gt;
@@ -1683,7 +1683,7 @@
 					whispering
 				</Original>
 				<Russian>
-					шепот
+					шепіт
 				</Russian>
 				<French>
 					Faible
@@ -1712,7 +1712,7 @@
 					Initialization...
 				</Original>
 				<Russian>
-					Инициализация...
+					Ініціалізація...
 				</Russian>
 				<French>
 					Initialization...
@@ -1741,7 +1741,7 @@
 					Radio
 				</Original>
 				<Russian>
-					Рации
+					Рації
 				</Russian>
 				<French>
 					Radio
@@ -1770,7 +1770,7 @@
 					Copy settings from...
 				</Original>
 				<Russian>
-					Скопировать настройки из....
+					Скопіювати налаштування з....
 				</Russian>
 				<French>
 					Copiez les réglages d'...
@@ -1799,7 +1799,7 @@
 					Copy settings from another radio with same encryption code
 				</Original>
 				<Russian>
-					Скопировать настройки из другой рации с тем же кодом шифрования
+					Скопіювати налаштування з іншої рації з тим же кодом шифрування
 				</Russian>
 				<French>
 					Copiez les réglages d'une autre radio ayant le même code de cryptage
@@ -1828,7 +1828,7 @@
 					Controls
 				</Original>
 				<Russian>
-					Управление
+					Управління
 				</Russian>
 				<French>
 					Contrôles
@@ -1857,7 +1857,7 @@
 					Waiting for the unique radio from server...
 				</Original>
 				<Russian>
-					Ожидаем получение уникальной рации от сервера...
+					Отримуємо унікальну рацію від сервера...
 				</Russian>
 				<French>
 					En attente de l'unique radio du serveur...
@@ -1910,24 +1910,24 @@
 				</Original>
 				<Russian>
 &lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;Caps Lock&lt;/font&gt;	Разговор по рации.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;CTRL + Caps Lock&lt;/font&gt;	Разговор по рации дальней связи.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;CTRL + P&lt;/font&gt;	Открыть интерфейс личной рации (рация должна быть в слоте инвентаря). В том случае, если у вас имеются несколько раций - вы сможете выбрать требуемую. Также есть возможность установить рацию как активную (ту, которая будет использоваться для передачи.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;NUM[1-8]&lt;/font&gt;	Быстрое переключение каналов коротковолновой рации.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;ALT + P&lt;/font&gt;	Открыть интерфейс рации дальней связи (рация дальней связи должна быть одета на спину, либо вы должны быть в технике за водителя, стрелка, командира или помощника пилота). Если доступно несколько рации - вам будет предложено выбрать. Также одну из них можно установить как активную.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;CTRL + NUM[1-9]&lt;/font&gt;	Быстрое переключение каналов рации дальней связи.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;CTRL + TAB&lt;/font&gt;	Изменить громкость прямой речи. Можно говорить шепотом (Whispering), нормально (Normal) и кричать (Yelling). Не влияет на кромкость сигнала в радио передаче.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;Caps Lock&lt;/font&gt;	Розмова по рації.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;CTRL + Caps Lock&lt;/font&gt;	Розмова по рації Дальнього Зв'язку.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;CTRL + P&lt;/font&gt;	Відкрити інтерфейс особистої рації (рація повинна бути в слоті інвентарю). У випадку, якщо ви маєте декілька рацій - виберіть необхідну. Ви зможете також встановити рацію як активну (яка буде використовуватися для передачі).&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;NUM[1-8]&lt;/font&gt;	Швидке перемикання каналів рації Ближнього Зв'язку.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;ALT + P&lt;/font&gt;	Відкрити інтерфейс рації Дальнього Зв'язку (рація Дальнього Зв'язку має бути одягнена на спину, або ви маєте бути в техніці за водія, стрілка, командира або помічника пілота). У випадку, якщо ви маєте декілька рацій - виберіть необхідну. Ви зможете також встановити рацію як активну (яка буде використовуватися для передачі).&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;CTRL + NUM[1-9]&lt;/font&gt;	Швидке перемикання каналів рації Дальнього Зв'язку.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;CTRL + TAB&lt;/font&gt;	Змінити гучність прямої мови. Можна говорити Пошепки, Нормально і Кричати. Це не впливає на гучність сигналу при радіозв'язку.&lt;br/&gt;
 &lt;font color=&quot;#67ED24&quot;&gt;SHIFT + P&lt;/font&gt;	Открыть интерфейс переговорного устройства для дайверов (на вас должен быть надет ребризер).&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;CTRL + ~&lt;/font&gt;	Разговор по переговорному устройству для дайверов.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;CTRL + ]&lt;/font&gt;	Следующая рация ближней связи.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;CTRL + [&lt;/font&gt;	Предыдущая рация ближней связи.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;CTRL + ALT + ]&lt;/font&gt;	Следующая рация дальней связи.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;CTRL + ALT + [&lt;/font&gt;	Предыдущая рация дальней связи.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;CTRL + [←,↑,→]&lt;/font&gt;	Изменение стерео режима рации ближней связи.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;ALT + [←,↑,→]&lt;/font&gt;	Изменение стерео режима рации дальней связи.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;T&lt;/font&gt;	Передача на дополнительном канале персональной рации.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;Y&lt;/font&gt;	Передача на дополнительном канале рации дальней связи.&lt;br/&gt;
-&lt;font color=&quot;#67ED24&quot;&gt;ESC&lt;/font&gt;	Выход из интерфейса рации.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;CTRL + ~&lt;/font&gt;	Розмова по переговорному пристрою для дайверів.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;CTRL + ]&lt;/font&gt;	Наступна рація Ближнього Зв'язку.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;CTRL + [&lt;/font&gt;	Попередня рація Ближнього Зв'язку.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;CTRL + ALT + ]&lt;/font&gt;	Наступна рація Дальнього Зв'язку.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;CTRL + ALT + [&lt;/font&gt;	Попередня рація Дальнього Зв'язку.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;CTRL + [←,↑,→]&lt;/font&gt;	Зміна стерео режиму рації Ближнього Зв'язку.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;ALT + [←,↑,→]&lt;/font&gt;	Зміна стерео режиму рації Дальнього Зв'язку.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;T&lt;/font&gt;	Передача на додатковому каналі особистої рації.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;Y&lt;/font&gt;	Передача на додатковому каналі рації Дальнього Зв'язку.&lt;br/&gt;
+&lt;font color=&quot;#67ED24&quot;&gt;ESC&lt;/font&gt;	Вихід з інтерфейса Рації.&lt;br/&gt;
 				</Russian>
 				<French>
 &lt;br/&gt;
@@ -2136,10 +2136,10 @@ You can not use radio communication underwater (neither to talk nor to hear). If
 				</Original>
 				<Russian>
 &lt;br/&gt;
-Вы не можете говорить голосом находясь под водой (даже в водолазном костюме). Однако на близком расстоянии ваш собеседник сможет расслышать что-либо очень невнятное (исключение - если вы под водой в изолированной технике).&lt;br/&gt;
-Находясь под водой, вы невнятно и слабо слышите голоса на суше.&lt;br/&gt;
-Для связи между дайверами используйте Переговорное устройство.&lt;br/&gt;
-Вы не можете пользоваться радио связью под водой (ни говорить, ни слышать). Если нужно что-то передать на сушу - всплывайте. Исключение - подводный аппарат на перископной глубине (в нем водолазам можно использовать рацию дальней связи).&lt;br/&gt;
+Ви не можете говорити голосом перебуваючи під водою (навіть в водолазному костюмі). Однак на близькій відстані ваш співрозмовник зможе почути щось дуже невиразне (виняток - якщо ви під водою в ізольованій техніці).&lt;br/&gt;
+Перебуваючи під водою, ви можете невиразно і слабо чути голоси на суші.&lt;br/&gt;
+Для зв'язку між дайверами використовуйте Переговорний пристрій.&lt;br/&gt;
+Ви не можете користуватися радіозв'язком під водою (ні говорити, ні чути). Якщо потрібно щось передати на сушу - спливайте. Виняток - підводний апарат на перископній глибині (в ньому водолази можуть використовувати рацію Дальнього Зв'язку).&lt;br/&gt;
 				</Russian>
 				<French>
 &lt;br/&gt;
@@ -2195,7 +2195,7 @@ Wyjątek - możesz użyć długiego radia będąc kierowcą łodzi podwodnej zna
 					Radio Interception
 				</Original>
 				<Russian>
-					Радиоперехват
+					Радіоперехоплення
 				</Russian>
 				<French>
 					Interception Radio
@@ -2228,11 +2228,11 @@ By default, radios of each faction use their own encryption codes, so you will n
 				</Original>
 				<Russian>
 &lt;br/&gt;
-Рации можно поднимать у убитых игроков, передавать их друг другу.&lt;br/&gt;
-При этом они сохраняют все настройки (каналы, частоты, громкость).&lt;br/&gt;
-Настройки рации в технике также сохраняются.&lt;br/&gt;
-По умолчанию рации каждой фракции используют свои коды шифрования, поэтому вы не будете слышать вражеские переговоровы, даже введя используемую врагами частоту. &lt;br/&gt;
-Чтобы прослушивать (и говорить в эфир) противника - необходимо каким-либо образом захватить вражескую радиостанцию.
+Рації можна піднімати у вбитих гравців, передавати їх один одному.&lt;br/&gt;
+При цьому вони зберігають всі налаштування (канали, частоти, гучність).&lt;br/&gt;
+Налаштування рації в техніці також зберігаються.&lt;br/&gt;
+За замовчуванням рації кожної фракції використовують свої коди шифрування, тому ви не будете чути ворожі перемови, навіть ввівши частоту, що використовує противник. &lt;br/&gt;
+Щоб прослуховувати (і говорити в ефір) противника - необхідно якимось чином захопити ворожу радіостанцію
 				</Russian>
 				<French>
 &lt;br/&gt;
@@ -2282,7 +2282,7 @@ Domyślnie radia wszystkich frakcji mają swoje kody szyfrujące, więc nie usł
 					Vehicles
 				</Original>
 				<Russian>
-					Техника
+					Техніка
 				</Russian>
 				<French>
 					Vehicules
@@ -2317,11 +2317,11 @@ Vehicles are classified into open and closed (isolated). If you are in an isolat
 				</Original>
 				<Russian>
 &lt;br/&gt;
-Рация дальней связи доступна в технике водителю, командиру, стрелку и помощнику пилота. Не вся техника имеет встроенные рации.&lt;br/&gt;
+Рація Дальнього Зв'язку доступна в техніці водієві, командиру, стрілку і помічникові пілота. Не кожна техніка має вбудовані рації.&lt;br/&gt;
 
-У каждого слота техники своя рация, которая должна быть настроена отдельно. Если вы планируете пересаживаться с места на места в технике - предварительно настройте рацию на всех слотах (например на слоте водителя и на слоте стрелка).&lt;br/&gt;
+У кожного слота техніки своя рація, яка має бути налаштована окремо. Якщо ви плануєте пересідати з місця на місця в техніці - попередньо налаштуйте рації на всіх слотах (наприклад на слоті водія і на слоті стрілка).&lt;br/&gt;
 
-Техника делиться на открытую и закрытую (изолированную). Если вы находитесь в изолированной технике, то не будете слышать голоса снаружи (и наоборот). Однако, если вы выгляните из техники, то будете слышать как голоса внутри, так и снаружи.&lt;br/&gt;
+Техніка ділитися на відкриту і закриту (ізольовану). Якщо ви перебуваєте в ізольованій техніці, то не будете чути голоси зовні (і навпаки). Однак, якщо ви визираєте з техніки, то будете чути як голоси всередині, так і зовні.&lt;br/&gt;
 				</Russian>
 				<French>
 &lt;br/&gt;
@@ -2385,6 +2385,7 @@ Pojazdy dzielą się na otwarte i zamknięte (izolowane). Jeśli jesteś w zamkn
 				<Original>
 					Don't automatically give long range radio
 				</Original>
+				<Russian>Не видавати автоматично рацію Дальнього Зв'язку</Russian>
 				<French>
 					Ne pas automatiquement donner de radio longue portée
 				</French>
@@ -2399,6 +2400,7 @@ Pojazdy dzielą się na otwarte i zamknięte (izolowane). Jeśli jesteś w zamkn
 				<Original>
 					Give personal radio to regular soldier
 				</Original>
+				<Russian>Видавати особисті рації звичайним солдатам</Russian>
 				<French>
 					Donner une radio personnelle aux soldats de base
 				</French>
@@ -2413,6 +2415,7 @@ Pojazdy dzielą się na otwarte i zamknięte (izolowane). Jeśli jesteś w zamkn
 				<Original>
 					Give MicroDAGR to soldier
 				</Original>
+				<Russian>Видавати MicroDAGR солдатам</Russian>
 				<French>
 					Donner un MicroDAGR aux soldats
 				</French>
@@ -2427,6 +2430,7 @@ Pojazdy dzielą się na otwarte i zamknięte (izolowane). Jeśli jesteś w zamkn
 				<Original>
 					Same SW frequencies for side
 				</Original>
+				<Russian>Однакові частоти БЗ для всієї сторони</Russian>
 				<French>
 					Mêmes fréquences SW pour l'équipe
 				</French>
@@ -2441,6 +2445,7 @@ Pojazdy dzielą się na otwarte i zamknięte (izolowane). Jeśli jesteś w zamkn
 				<Original>
 					Same LR frequencies for side
 				</Original>
+				<Russian>Однакові частоти ДЗ для всієї сторони</Russian>
 				<French>
 					Mêmes fréquences LP pour l'équipe
 				</French>
@@ -2455,6 +2460,7 @@ Pojazdy dzielą się na otwarte i zamknięte (izolowane). Jeśli jesteś w zamkn
 				<Original>
 					Same DD frequencies for side
 				</Original>
+				<Russian>Однакові частоти підводного зв'язку для всієї сторони</Russian>
 				<French>
 					Mêmes fréquences DD pour l'équipe
 				</French>
@@ -2469,6 +2475,7 @@ Pojazdy dzielą się na otwarte i zamknięte (izolowane). Jeśli jesteś w zamkn
 				<Original>
 					Default radio volume
 				</Original>
+				<Russian>Гучність рації за замовчуванням</Russian>
 				<French>
 					Volume par défaut de la radio
 				</French>
